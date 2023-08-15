@@ -1,0 +1,81 @@
+body {
+  margin: 0 auto;
+  padding: 30px 40px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.form-group{
+  padding-top: 8px;
+  
+}
+
+.me-auto svg{
+  position: relative;
+  top: 10px;
+  width: 40px;
+  height: 40px;
+  
+}
+
+.btn.btn-outline-info{
+
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 4px;
+  background: skyblue;
+  size: 12px;
+}
+
+.btn.btn-outline-info:hover{
+
+  border: 2px solid skyblue;
+  border-radius: 8px;
+  padding: 4px;
+  background: cyan;
+  size: 12px;
+}
+
+.btn.btn-outline-info.btn-games{
+  border: 2px solid black;
+  color: yellow;
+  border-radius: 8px;
+  padding: 4px;
+  background: navy;
+  size: 12px;
+}
+
+.btn.btn-outline-info.btn-games:hover{
+  border: 2px solid navy;
+  color: black;
+  border-radius: 8px;
+  padding: 4px;
+  background: yellow;
+  size: 12px;
+}
+
+.btn.btn-outline-info.btn-logout{
+  border: 2px solid black;
+  color: white;
+  border-radius: 8px;
+  padding: 4px;
+  background: red;
+  size: 12px;
+}
+
+.btn.btn-outline-info.btn-logout:hover{
+  border: 2px solid red;
+  color: red;
+  background: white;
+  border-radius: 8px;
+  padding: 4px;
+  size: 12px;
+}

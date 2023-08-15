@@ -1,0 +1,28 @@
+.alert.alert-danger{
+    color: red;
+}
+
+.btn.btn-outline-info.btn-login{
+    background-color: gray;
+    font:bold
+}
+
+.btn.btn-outline-info.btn-login:hover{
+    background-color: lightgray;
+    border-color: gray;
+    font:bold
+}
+
+.btn.btn-primary.login{
+    padding: 8px;
+    background-color: lightblue;
+    
+}
+.btn.btn-primary.login:hover{
+    padding: 8px;
+    size: 12px;
+    font-size: bolder;
+    background-color: white;
+    border-color: lightblue;
+    cursor: pointer;
+}

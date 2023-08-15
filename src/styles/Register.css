@@ -1,0 +1,29 @@
+.alert.alert-danger{
+    color: red;
+}
+
+.btn.btn-outline-info.btn-register{
+    background-color: lightgreen;
+    border-color: black;
+    font:bold
+}
+
+.btn.btn-outline-info.btn-register:hover{
+    background-color: white;
+    border-color: lightgreen;
+    font:bold
+}
+
+.btn.btn-primary.register{
+    padding: 8px;
+    background-color: greenyellow;
+    
+}
+.btn.btn-primary.register:hover{
+    padding: 8px;
+    size: 12px;
+    font-size: bolder;
+    background-color: white;
+    border-color: yellowgreen;
+    cursor: pointer;
+}
